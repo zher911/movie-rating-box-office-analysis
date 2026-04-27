@@ -4,7 +4,7 @@
 
 ## Project Links
 - Demo Video (1–3 min): [Insert demo video link here]
-- Repository: [Insert repository link here]
+- Repository: [https://github.com/zher911/movie-rating-box-office-analysis]
 
 ---
 
